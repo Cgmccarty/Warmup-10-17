@@ -1,0 +1,21 @@
+.col-lg-4 {
+    max-width: 300px;
+}
+
+html {
+  background-color: lightgrey;
+  display: flex;
+}
+
+.row {
+  background-color: lightgrey;
+}
+
+p, .col, .col-md, .col-lg, .col-lg-4 {
+  background-color: white;
+  border-radius: 5px;
+}
+
+.col {
+  min-width: 240px;
+}
